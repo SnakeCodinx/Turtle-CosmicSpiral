@@ -3,7 +3,7 @@
 This code uses the Python Turtle library to create a stunning, colorful spiral pattern that appears to swirl and twirl like a cosmic whirlpool. The pattern is formed by drawing a series of connected lines with increasing lengths, with each line being drawn in a different color from the colors list. The hideturtle() function is used to hide the turtle, making the pattern more visually appealing.
 
 # Tutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube]())
+click on the link to see :- ([Open in Youtube](https://youtu.be/c19O1seefvQ))
 
 # Screenshot
 
